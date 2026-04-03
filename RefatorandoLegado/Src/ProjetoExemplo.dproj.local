@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/07 14:48:20.000.314,=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/10 08:59:21.000.832,=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 20:03:43.000.811,=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 10:54:43.000.603,=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 10:55:12.000.871,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Principal.dfm=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/04/03 10:55:12.000.871,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Principal.pas=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 10:55:20.000.544,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\ProjetoExemplo.dproj=C:\Users\gabry\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/04/03 10:59:13.000.533,=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 10:59:28.000.161,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\DM\DataModule.dfm=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.dfm</Transaction>
+    <Transaction>2026/04/03 10:59:28.000.161,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\DM\DataModule.pas=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 11:02:55.000.100,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\DM\DataModule.pas=</Transaction>
+    <Transaction>2026/04/03 11:06:17.000.480,=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 11:06:51.000.778,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.dfm=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\DM\DM.dfm</Transaction>
+    <Transaction>2026/04/03 11:06:51.000.778,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\DM\DM.pas</Transaction>
+    <Transaction>2026/04/03 11:28:49.000.334,=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 11:29:02.000.618,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\EntidadeDesaclopada.pas</Transaction>
+    <Transaction>2026/04/03 11:30:12.000.086,=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas</Transaction>
+    <Transaction>2026/04/03 11:30:21.000.694,C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\Unit1.pas=C:\Users\gabry\OneDrive\Área de Trabalho\RefatorandoLegado\Src\RepositorioGenerico.pas</Transaction>
+  </Transactions>
+</BorlandProject>
